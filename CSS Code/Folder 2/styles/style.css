@@ -1,0 +1,20 @@
+body{
+    background: lightcyan;
+}
+
+#box{
+    margin: 5px 10px 20px 40px;
+    border: 2px solid darkblue;
+    padding: 2px 4px 8px 16px;
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+}
+
+footer{
+    width: 300px;
+    height: 100px;
+    margin: 5px 10px;
+    border: 1px dashed red;
+    padding: 5px;
+}

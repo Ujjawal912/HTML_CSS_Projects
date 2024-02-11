@@ -1,0 +1,95 @@
+/* body{
+    background: lightcyan;
+} */
+
+/* .position-property{
+    background: lightsalmon;
+    color: white;
+    position: relative; 
+/* } 
+
+/* .position-property h2{ 
+    position: absolute;
+    background: green;
+    left: 100px;
+} */
+
+/* .position-property h3{
+    position: fixed;
+} */
+
+/* .position-property{
+    background: lightsalmon;
+    color: white;
+    position: sticky;
+    top: 0px;
+} */
+
+/* #box{
+    margin: 5px 10px 20px 40px;
+    border: 2px solid darkblue;
+    padding: 2px 4px 8px 16px;
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+    /* position: fixed; 
+}*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+ /* .parent{
+    height: 100vh;
+    border: 10px solid blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.child-1{
+    width:200px;
+    height: 200px;
+    background: rgb(57, 57, 57);
+    order: 1;
+}
+
+.child-2{
+    width:200px;
+    height: 200px;
+    background: rgb(170, 161, 161);
+    order: 3;
+}
+
+.child-3{
+    width:200px;
+    height: 200px;
+    background: rgb(238, 189, 189);
+    order: 2;
+}  */
+/* body{
+    background: darkgreen;
+}
+
+
+@media all and (max-width: 500px){
+    body {
+        background: red;
+        font-size: 25px;
+        color: white;
+    }
+}
+
+@media all and (min-width: 1000px){
+    body {
+        background: darkcyan;
+        font-size: 25px;
+        color: white;
+    }
+} */
+
+
+
